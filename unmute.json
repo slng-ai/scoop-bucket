@@ -1,19 +1,19 @@
 {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/slng-ai/unmute/releases/download/v0.6.1/unmute_0.6.1_windows_amd64.zip",
+            "url": "https://github.com/slng-ai/unmute/releases/download/v0.7.0/unmute_0.7.0_windows_amd64.zip",
             "bin": [
                 "unmute.exe"
             ],
-            "hash": "ac845687bf6534ad57a066f97228d880b5d944a6553fae23924564e42a61b7e2"
+            "hash": "fe244e3f9eeddc4db65de0075e7dd9e0d5d0bae7087bfb7c7d744abac59050c2"
         },
         "arm64": {
-            "url": "https://github.com/slng-ai/unmute/releases/download/v0.6.1/unmute_0.6.1_windows_arm64.zip",
+            "url": "https://github.com/slng-ai/unmute/releases/download/v0.7.0/unmute_0.7.0_windows_arm64.zip",
             "bin": [
                 "unmute.exe"
             ],
-            "hash": "92105d7ef79d76202dd1814de7deac7102db5a9e88c0ad12da74e558f1513ece"
+            "hash": "84abec6a4201446c1d16cd592eb5cd91c6e2faf85b1a3e2c8e68e1325a0280be"
         }
     },
     "homepage": "https://github.com/slng-ai/unmute",
